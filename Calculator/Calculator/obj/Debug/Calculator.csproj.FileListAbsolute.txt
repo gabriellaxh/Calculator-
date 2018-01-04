@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Gabriela\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Gabriela\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Gabriela\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
